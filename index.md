@@ -39,3 +39,13 @@ A blockchain-based system is implemented to track milk from the farm to the cons
 - **Efficiency**: Reduces paperwork and manual errors, streamlining the supply chain.
 
 ---
+
+#### References:
+- https://www.ibm.com/think/topics/blockchain
+- https://guggero.github.io/blockchain-demo/
+- https://en.wikipedia.org/wiki/Bitcoin
+- https://www.paltron.com/insights-en/the-role-of-blockchain-in-supply-chain-management-scm
+
+---
+
+#### Slides: [Download](https://github.com/immkavin-ranks/blockchain/blob/main/Blockchain%20Technology.pptx)
