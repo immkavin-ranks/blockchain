@@ -48,4 +48,4 @@ A blockchain-based system is implemented to track milk from the farm to the cons
 
 ---
 
-#### Slides: [Download](https://github.com/immkavin-ranks/blockchain/blob/main/Blockchain%20Technology.pptx)
+#### Slides: [Download](https://github.com/immkavin-ranks/blockchain/raw/main/Blockchain%20Technology.pptx)
